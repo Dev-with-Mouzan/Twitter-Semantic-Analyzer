@@ -14,9 +14,9 @@
     }
   ],
   "functions": {
-    "backend/main.py": {
+    "backend/api/index.py": {
       "maxDuration": 30,
-      "runtime": "python3.12"
+      "runtime": "python@3.12"
     }
   }
 }
